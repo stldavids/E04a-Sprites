@@ -6,11 +6,12 @@ The exercise takes place across three files:
 
 
  * main3.py:
-   * The moose would like to be more mobile. Change the code so the moose follows the mouse around the screen.
+
    * You will need to edit line 40 to accomplish this assignment
    * If you look on lines 25–26, you will see that the sprite location is set using the center_x and center_y attributes
    * The moose is now part of the self.animal_list, so you will need to update the element(s) of that list:
      * for a in self.animal_list:
+
  * main4.py—*extra credit*:
    * Find some other sprites, and make them into a collage
    * Using what you have learned in the other exercise files, draw at least ten sprites in the window
